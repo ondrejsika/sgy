@@ -1,0 +1,7 @@
+*.swp
+*.aux
+*.log
+*.toc
+*.pdf
+_build
+
